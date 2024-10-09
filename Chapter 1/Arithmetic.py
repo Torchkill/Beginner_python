@@ -1,13 +1,13 @@
 """
-Docstrings are used to explains what file or function is doing or
+Docstrings are used to explains what a file or function purpose is or
 if you're studying, it's ideal to show which assignment your solving 
 and sign with your name and date.
 
 In this code we simply look at the standard arithmetic operators
 """
 
-# We'll assign variables to make it easier to graps and 
-# assign it to the operator variable.
+# We'll assign variables by using = operator and make it easier 
+# to grasp and assign values its operator variable.
 num_one = 10
 num_two = 2
 
@@ -34,6 +34,7 @@ floor = num_one // num_two
 mod = num_one % num_two
 
 # To ensure we understand the operators we can print them out
+# and review the results
 
 print(add)
 print(sub)
