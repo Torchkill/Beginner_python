@@ -1,5 +1,7 @@
-# Beginner_python
+# Info
 A repository to help people get into coding.
+https://github.com/Torchkill/Beginner_python
+https://www.youtube.com/@Torchkills
 
 # To follow the guides
 Install Python either via https://www.python.org/downloads/ or through vscode extension.
